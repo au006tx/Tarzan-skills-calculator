@@ -9,7 +9,7 @@ To get the frontend running locally:
 Clone this repo to your local machine 
 
 ```
-git clone 
+git clone https://github.com/au006tx/Tarzan-skills-calculator.git
 ```
 
 
