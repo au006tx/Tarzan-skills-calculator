@@ -2,7 +2,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 
 ## Getting started
 
-You can view a live demo over at https://salmanahmed.netlify.com/
+You can view a live demo over at https://tarzanskillscalculator.netlify.com/
 
 To get the frontend running locally:
 
