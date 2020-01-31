@@ -1,8 +1,23 @@
 This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
+## Getting started
+
+You can view a live demo over at https://salmanahmed.netlify.com/
+
+To get the frontend running locally:
+
+Clone this repo to your local machine 
+
+```
+git clone 
+```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+`npm install` to install all required dependencies
 
 ### `yarn start`
 
